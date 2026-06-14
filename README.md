@@ -6,6 +6,8 @@ Supports **WAS** (sprite/animation), **WDF** (WAS archive), and **MAP** (scene/m
 
 ## Features
 
+![GGE-Tool Screenshot](screenshot.png)
+
 - **WAS Viewer** — View sprite frames, play animations, export PNG/GIF
 - **WDF Browser** — Browse and extract WAS files from WDF archives
 - **MAP Viewer** — Parse and render game maps (.map) with:
@@ -79,6 +81,10 @@ export_gif(was, "anim.gif")
 ├── LICENSE
 └── requirements.txt
 ```
+
+## 中文版本
+
+[中文说明](README_zh.md)
 
 ## License
 
